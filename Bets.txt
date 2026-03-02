@@ -1,3 +1,4 @@
+# Matriz https://github.com/faakit/bet-blocker-dns/blob/main/blocks.txt
 br.betano.com
 superbet.com
 www.superbet.com
