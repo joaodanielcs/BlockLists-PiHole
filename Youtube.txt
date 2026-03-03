@@ -1,11 +1,4 @@
 # Matriz https://raw.githubusercontent.com/zangadoprojets/pi-hole-blocklist/main/youtube.txt
-#--------------------------------------------------------#
-# Last Update: 30-11-2022 with 41.125 domains
-# MIT License: Copyright (c) 2022 ZangadoProjets
-# https://github.com/zangadoprojets/pi-hole-blocklist
-# Report if you find a problem or want to add an address.
-#--------------------------------------------------------#
-
  r1---sls.googlevideo.com
  r1---sn--0opoxu-2cjy.googlevideo.com
  r1---sn--0ub03g5pox-3c2l.googlevideo.com
